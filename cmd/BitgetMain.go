@@ -1,9 +1,10 @@
 package main
 
 import (
-	"bitget/internal/model"
-	"bitget/pkg/client/ws"
 	"fmt"
+
+	"github.com/henrytw/bitget/internal/model"
+	"github.com/henrytw/bitget/pkg/client/ws"
 )
 
 func main() {
